@@ -15,7 +15,7 @@ AutoXGB is simple but effective AutoML tool to train model tabular dataset direc
 ```shell
 pip install autoxgb
 ```
-[<img alt="Github" src="https://img.shields.io/badge/AutoXGB-0.2.2-1e90ff?logo=github&logoColor=white&style=for-the-badge" />](https://github.com/abhishekkrthakur/autoxgb)
+[<img alt="Github" src="https://img.shields.io/badge/AutoXGB-0.2.2-1e90ff?logo=github&logoColor=white&style=for-the-badge" />](https://github.com/abhishekkrthakur/autoxgb) [![deepnote](https://deepnote.com/buttons/launch-in-deepnote-white.svg)](https://deepnote.com/@abid/AutoXGB-jTrkEca8TK2KFHMvjj8Ttw)
 
 
 ## Dataset
