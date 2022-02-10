@@ -1,0 +1,3 @@
+autoxgb
+uvicorn[standard]
+fastapi
