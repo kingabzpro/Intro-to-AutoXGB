@@ -4,7 +4,7 @@ The guide for AutoXGB which includes training and running web server.
 
 
 
-![cover](Deepnote_AutoXGB.png)
+![cover](Images/Deepnote.png)
 
 AutoXGB is simple but effective AutoML tool to train model tabular dataset directly. The AutoXGB use [XGBoost](https://xgboost.readthedocs.io/en/stable/) for training the model, [Optuna](https://optuna.org/) for hyperparameters optimization and [FastAPI](https://fastapi.tiangolo.com/) to run web app. 
 
@@ -34,7 +34,7 @@ autoxgb train \
 ## Web API
 By using `autoxgb serve` on CLI you can run localy FastAPI server. 
 
-![Picture title](image-20220210-172802.png)
+![Picture title](Images/image-20220210-172802.png)
 
 ### Input
 We are going to use FastAPI GUI to run predictions on model by adding `/docs` at the end of the link. For example `172.3.167.43:39118/docs`
@@ -53,10 +53,10 @@ We are going to use FastAPI GUI to run predictions on model by adding `/docs` at
 - capital.loss: 0
 - hours.per.week: 40
 
-![Picture title](image-20220210-173410.png)
+![Picture title](Images/image-20220210-173410.png)
 
 ### Outcome
 The result is `<50k` with confidence of 97.6% and `>50k` with confidence of 2.3%.
 
-![Picture title](image-20220210-173502.png)
+![Picture title](Images/image-20220210-173502.png)
 
