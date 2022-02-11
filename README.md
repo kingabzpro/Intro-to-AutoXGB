@@ -4,7 +4,7 @@ The guide for AutoXGB which includes training and running web server.
 
 
 
-![cover](Images/Deepnote.png)
+![cover](Images/deepnote.png)
 
 AutoXGB is simple but effective AutoML tool to train model tabular dataset directly. The AutoXGB use [XGBoost](https://xgboost.readthedocs.io/en/stable/) for training the model, [Optuna](https://optuna.org/) for hyperparameters optimization and [FastAPI](https://fastapi.tiangolo.com/) to run web app. 
 
